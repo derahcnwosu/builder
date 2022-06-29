@@ -53,7 +53,7 @@ function Navbar() {
               initial = {{opacity: 0}}
               animate = {{opacity: 1}}
               transition = {{delay: 4, duration: 0.6}}
-            ><Link to='/*' className='hamburger'><FaBars/></Link></motion.li> */}
+            ><Link to='/*' className='hamburger'><FaBars/></Link></motion.li>
         </ul>
     </nav>
   )
