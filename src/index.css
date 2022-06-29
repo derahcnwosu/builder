@@ -370,4 +370,13 @@ body{
         width: 90vw;
         height: 400px;
     }
+    .lead-txt{
+        font-size: 2rem;
+    }
+    .primary-bg{
+        padding: 0 0.5;    
+    }
+    .banner .p-lead{
+        font-weight: normal;
+    }
 }

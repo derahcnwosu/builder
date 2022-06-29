@@ -25,9 +25,9 @@ function Banner() {
           animate = {{opacity: 1}}
           transition = {{delay: 4, type: 'spring', stiffness: 600}}
         >Build Your <motion.span className='primary-bg' 
-          initial = {{fontSize: '2rem'}}
-          animate = {{fontSize: '4.5rem'}}
-          transition = {{delay: 4.3, type: 'spring', stiffness: 300}}
+          // initial = {{fontSize: '2rem'}}
+          // animate = {{fontSize: '4.5rem'}}
+          // transition = {{delay: 4.3, type: 'spring', stiffness: 300}}
         >Dream</motion.span></motion.h2>
         <motion.p className='p-lead'
           initial = {{opacity: 0}}
