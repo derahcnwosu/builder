@@ -258,6 +258,10 @@ body{
     color: black;
     font-weight: bold;
 }
+.expert-img{
+    height: 300px;
+    width: 250px;
+}
 
 
 
@@ -361,5 +365,9 @@ body{
     .hamburger{
         display: inline-block;
         font-size: 1/3rem;
+    }
+    .expert-img{
+        width: 90vw;
+        height: 400px;
     }
 }
