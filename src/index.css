@@ -377,7 +377,7 @@ body{
     .expert-img{
         width: 90vw;
         height: 500px;
-        padding: 1rem;
+        /* padding: 1rem; */
     }
     .expert-info{
         text-align: center;
