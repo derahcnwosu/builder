@@ -376,7 +376,7 @@ body{
     }
     .expert-img{
         /* width: 90vw; */
-        height: 200px;
+        /* height: 200px; */
         background-position: center center/cover;
     }
     .lead-txt{

@@ -16,8 +16,8 @@ function LatestProjects() {
             <ImageCard lead='Peter Dury House for Commercial' bg={highrise2}/>
             {/* <ImageCard lead='Marina Building' bg={highrise3}/> */}
             {/* <ImageCard lead='Creative Hub NG' bg={highrise4}/> */}
-            <ImageCard lead='Talent Nation Space' bg={highrise5}/>
-            {/* <ImageCard lead='E-center Ozone Cinemas' bg={highrise6}/> */}
+            {/* <ImageCard lead='Talent Nation Space' bg={highrise5}/> */}
+            <ImageCard lead='E-center Ozone Cinemas' bg={highrise6}/>
        </div>
     </section>
   )
