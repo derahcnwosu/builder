@@ -15,7 +15,7 @@ function ExpertsSection() {
           <Expert pic={expert1} expert_name = 'John Smith' expert_role='Managing Director(Sales)' />
           <Expert pic={expert2} expert_name = 'Mary Anderson' expert_role='Managing Director(IT/Operations)'/>
           <Expert pic={expert3} expert_name = 'Anita Sheffield' expert_role='Managing Director(Finance)'/>
-          <Expert pic={expert4} expert_name = 'Juliana Cambridge' expert_role='Managing Director(HR)'/>
+          {/* <Expert pic={expert4} expert_name = 'Juliana Cambridge' expert_role='Managing Director(HR)'/> */}
         </div>
     </div>
   )

@@ -381,6 +381,7 @@ body{
     }
     .expert-info{
         text-align: center;
+        margin-left: 0;
     }
     .lead-txt{
         font-size: 2rem;
