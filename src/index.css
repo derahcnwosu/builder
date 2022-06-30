@@ -215,7 +215,7 @@ body{
 /* IMAGES SECTION */
 .images-section{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     /* gap: 1rem; */
 }
 .image-card{
@@ -245,7 +245,7 @@ body{
 }
 .experts{
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
     margin-top: 4rem;
 }
