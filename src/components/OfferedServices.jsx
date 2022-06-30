@@ -20,9 +20,9 @@ function OfferedServices() {
         >Lorem ipsum dolor sit amet consectetur adipisicing.</motion.p>
 
         <div className="cards">
-            <Card icon={<FaBuilding className='service-icon' color='#ffc107'/>} lead='Building Drawings' para= 'We give premium 3D building drawings for your projects' delay='0.5' duration='0.2'/>
-            <Card icon={<FaTractor className='service-icon' color='#ffc107'/>} lead='Painting Constructions' para= 'If you need to paint your buildings or interiors' delay='0.8' duration='0.4'/>
-            <Card icon={<FaScrewdriver className='service-icon' color='#ffc107'/>} lead='Repairing Constructions' para= 'We handle repairs of all types of building facilites' delay='1' duration='0.6'/>
+            <Card icon={<FaBuilding className='service-icon' color='#ffc107'/>} lead='Building Drawings' para= 'We give premium 3D building drawings for your projects' delay='0.4' duration='0.2'/>
+            <Card icon={<FaTractor className='service-icon' color='#ffc107'/>} lead='Painting Constructions' para= 'If you need to paint your buildings or interiors' delay='0.4' duration='0.2'/>
+            <Card icon={<FaScrewdriver className='service-icon' color='#ffc107'/>} lead='Repairing Constructions' para= 'We handle repairs of all types of building facilites' delay='0.4' duration='0.2'/>
         </div>
     </section>
   )
