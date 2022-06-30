@@ -335,6 +335,9 @@ body{
     .experts-section{
         height: auto;
     }
+    .experts-section{
+        margin-bottom: 1.5rem;
+    }
     .counters,
     .services{
         text-align: center;
