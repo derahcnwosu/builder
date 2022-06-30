@@ -317,11 +317,16 @@ body{
 
 
 @media (max-width: 500px) {
+    
     .cards,
     .counters,
     .experts,
     .images-section{
         grid-template-columns: 1fr;
+    }
+    .image-card {
+        margin: 1rem;
+        height: 200px;
     }
     .services,
     .experts-section{
